@@ -460,6 +460,7 @@
                     <simulatedTabBarMetrics key="simulatedBottomBarMetrics"/>
                     <connections>
                         <outlet property="probileButtonItem" destination="tZ2-Dg-5OD" id="c4G-Rr-sAM"/>
+                        <outlet property="tableView" destination="lMS-Qv-FfQ" id="8lK-WU-Osh"/>
                     </connections>
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="foy-xU-PJs" userLabel="First Responder" sceneMemberID="firstResponder"/>
